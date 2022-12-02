@@ -1,0 +1,3 @@
+import homepage
+
+homepage.welcome()
